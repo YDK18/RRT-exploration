@@ -20,5 +20,6 @@
 
 ![publish point 순서](https://github.com/YDK18/RRT-exploration/blob/master/sequence_of_points.png)
 
+RRT exploration 실행 결과
 
 ![RRT exploration](https://github.com/YDK18/RRT-exploration/blob/master/rrt_exploration.png)
